@@ -1,1 +1,0 @@
-{"version":3,"file":"create-quizzes.seed.js","sourceRoot":"","sources":["../../../src/database/seeds/create-quizzes.seed.ts"],"names":[],"mappings":";;;AAAA,yEAAqE;AAIrE,MAAa,iBAAiB;IACrB,KAAK,CAAC,GAAG,CAAC,OAAgB;QAC/B,OAAO,CAAC,GAAG,CAAC,qBAAqB,CAAC,CAAC;QACnC,MAAM,OAAO,CAAC,wBAAU,CAAC,EAAE,CAAC,MAAM,EAAE,CAAC;IAUvC,CAAC;CACF;AAdD,8CAcC"}
